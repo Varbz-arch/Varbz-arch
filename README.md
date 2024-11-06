@@ -1,8 +1,6 @@
 ## Hi there 👋
 # heya
 ## this is *Archisha*
-### heading 
-\\\First file
 [**@UPES**]
 
 <!--
